@@ -1,0 +1,16 @@
+1.zip / flag00 : 'CTFl'
+2.zip / flag01 : 'earn'
+3.zip / flag02 : '{s0m'
+4.zip / flag03 : '3t1m'
+5.zip / flag04 : '35_u'
+6.zip / flag05 : '$1ng'
+7.zip / flag06 : '_h4r'
+8.zip / flag07 : 'd_p4'
+9.zip / flag08 : 's5w0'
+10.zip / flag09 : 'rd_i'
+11.zip / flag10 : '5_n0'
+12.zip / flag11 : 't_3n'
+13.zip / flag12 : '0ugh'
+14.zip / flag13 : '}'
+
+CTFlearn{s0m3t1m35_u$1ng_h4rd_p4s5w0rd_i5_n0t_3n0ugh}
